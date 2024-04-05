@@ -12,7 +12,7 @@ export default siteConfig({
   name: 'Muon Digital Marketing',
   domain: 'moun.ltd',
   author: 'Muon',
-  seotitle: 'Muon.ltd',
+  seotitle: 'Muon',
 
   // open graph metadata (optional)
   description: 'ELEVATE YOUR BRAND WITH INNOVATIVE STRATEGIES AND DATA-DRIVEN CAMPAIGNS.',

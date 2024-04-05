@@ -21,8 +21,7 @@ export default siteConfig({
   twitter: '#',
   github: '#',
   linkedin: '#',
-  facebook: '#',
-  instagram: '#',
+
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 

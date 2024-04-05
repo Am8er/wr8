@@ -408,7 +408,8 @@ font-size: 0.9em;
 .notion-page-cover-wrapper img {
   max-width: 620px !important;
   border-radius: 10px;
-  display: none;
+  display: flex;
+  align-items: center;
 }
 
 .notion-page-cover-wrapper {

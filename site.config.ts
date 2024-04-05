@@ -12,7 +12,7 @@ export default siteConfig({
   name: 'Muon Digital Marketing',
   domain: 'moun.ltd',
   author: 'Muon',
-  seotitle: 'Muon SEO Site',
+  seotitle: 'Muon.ltd',
 
   // open graph metadata (optional)
   description: 'ELEVATE YOUR BRAND WITH INNOVATIVE STRATEGIES AND DATA-DRIVEN CAMPAIGNS.',
@@ -21,13 +21,15 @@ export default siteConfig({
   twitter: '#',
   github: '#',
   linkedin: '#',
+  facebook: '#',
+  instagram: '#',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://postimg.cc/CRDSg7LM',
-  defaultPageCover: 'https://images.unsplash.com/photo-1556761175-4b46a572b786?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600',
+  defaultPageIcon: 'https://wr8.in/page-icon.png',
+  defaultPageCover: 'https://wr8.in/page-cover.jpg',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)

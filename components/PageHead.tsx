@@ -68,12 +68,12 @@ export const PageHead: React.FC<
       <title>{title}</title>
       <script
         async
-        src="https://www.googletagmanager.com/gtag/js?id=G-YVHGE4852W"
+        src="https://www.googletagmanager.com/gtag/js?id=G-ZY2Q9131ZW"
       />
       <script
         dangerouslySetInnerHTML={{
           __html:
-            "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-YVHGE4852W')"
+            "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-ZY2Q9131ZW')"
         }}
       />
     </Head>

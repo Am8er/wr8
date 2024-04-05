@@ -9,25 +9,25 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'wr8 Demo',
-  domain: 'demo.wr8.in',
-  author: 'Mighil',
-  seotitle: 'Demo Site Created with wr8',
+  name: 'Muon Digital Marketing',
+  domain: 'moun.ltd',
+  author: 'Muon',
+  seotitle: 'Muon SEO Site',
 
   // open graph metadata (optional)
-  description: 'This is a demo website created with wr8.',
+  description: 'ELEVATE YOUR BRAND WITH INNOVATIVE STRATEGIES AND DATA-DRIVEN CAMPAIGNS.',
 
   // social usernames (optional)
-  twitter: 'jotzilla',
-  github: 'verfasor',
-  linkedin: 'mighil',
+  twitter: '#',
+  github: '#',
+  linkedin: '#',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: 'https://wr8.in/page-icon.png',
-  defaultPageCover: 'https://wr8.in/page-cover.jpg',
+  defaultPageIcon: 'https://postimg.cc/CRDSg7LM',
+  defaultPageCover: 'https://images.unsplash.com/photo-1556761175-4b46a572b786?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)

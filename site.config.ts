@@ -18,9 +18,9 @@ export default siteConfig({
   description: 'ELEVATE YOUR BRAND WITH INNOVATIVE STRATEGIES AND DATA-DRIVEN CAMPAIGNS.',
 
   // social usernames (optional)
-  twitter: '#',
-  github: '#',
-  linkedin: '#',
+  // twitter: '#',
+  // github: '#',
+  // linkedin: '#',
 
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
